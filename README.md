@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Kums 👋
 
-<!--
-**Datawithkums/Datawithkums** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | SQL • Python • Excel • Power BI
 
-Here are some ideas to get you started:
+I am a data-driven professional with a background in Information Technology and process-oriented operations. I am developing practical analytics projects to transform raw data into meaningful business insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+- **SQL:** MySQL, joins, aggregations, business queries
+- **Python:** Pandas, data cleaning, exploratory data analysis
+- **Excel:** Formulas, PivotTables, reporting
+- **Power BI:** Data modeling, KPI reporting, dashboards
+- **Analytics:** Data validation, trend analysis, business insights
+
+## 📊 Featured Project
+
+### 🍽️ Zomato Restaurant Data Analysis
+- Analyzed restaurant ratings, cuisine categories, pricing and online delivery.
+- Used MySQL to answer business questions with SQL queries.
+- Documented findings, methodology and business recommendations.
+
+[View My Zomato Analysis Project](https://github.com/Datawithkums/Kumar-_data-analyst-portfolio/tree/main/projects/zomato-analysis)
+
+## 🎯 Career Focus
+
+Interested in Data Analyst and Business Intelligence opportunities where I can apply analytical thinking, data validation and reporting skills to support business decisions.
+
+## 🤝 Connect With Me
+
+- **GitHub:** [@Datawithkums](https://github.com/Datawithkums)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/kumar-surya-94b993142/)
+
+---
+
+*Learning continuously. Building practical projects. Turning data into insights.*
